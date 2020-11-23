@@ -1,0 +1,31 @@
+[
+  {
+    "role": "dev",
+    "firstName": "amine",
+    "lastName": "amine",
+    "email": "amine@gmail.com",
+    "password": "azerty123"
+  },
+
+  {
+    "role": "dev",
+    "firstName": "amine",
+    "lastName": "amine",
+    "email": "morad@gmail.com",
+    "password": "azerty123"
+  },
+  {
+    "role": "admin",
+    "firstName": "amine",
+    "lastName": "amine",
+    "email": "yassine@gmail.com",
+    "password": "azerty123"
+  },
+  {
+    "role": "qa",
+    "firstName": "amine",
+    "lastName": "amine",
+    "email": "mohssin@gmail.com",
+    "password": "azerty123"
+  }
+]

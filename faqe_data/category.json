@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Deep Learning",
+    "image": "photo_5fa55c3ec2c38f2210514c83.jpg",
+    "access": ["admin"]
+  },
+  {
+    "title": "React Js",
+    "image": "photo_5fa55c3ec2c38f2210514c82.png",
+    "access": ["admin"]
+  },
+  {
+    "title": "Graphtalk",
+    "image": "photo_5fa55c3ec2c38f2210514c81.jpg",
+    "access": ["admin"]
+  },
+  {
+    "title": "Angular",
+    "image": "photo_5fa55c3ec2c38f2210514c81.jpg",
+    "access": ["admin"]
+  },
+  {
+    "title": "Php",
+    "image": "photo_5fa55c3ec2c38f2210514c84.jpg",
+    "access": ["admin"]
+  }
+]
